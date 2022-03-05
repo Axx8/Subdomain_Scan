@@ -7,5 +7,6 @@ Subdomain_Scan.exe baidu.com
 
 ![Subdomain_Scan.png](https://github.com/Axx8/Subdomain_Scan/blob/main/images/Subdomain_Scan.png?raw=true)  
 
-output
+结果输出:
+
 baidu.com_.txt
