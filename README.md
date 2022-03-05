@@ -2,7 +2,7 @@
 子域名扫描工具 Subdomain_Scan
 ## 默认字典
 ```
-Subdomain_Scan.exe vip.com
+Subdomain_Scan.exe baidu.com
 Use default dictionary （yes/no）：yes
 ```
 
