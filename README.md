@@ -10,3 +10,5 @@ Subdomain_Scan.exe baidu.com
 结果输出:
 
 baidu.com_.txt
+
+#自定义字典
